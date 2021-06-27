@@ -8,15 +8,15 @@
 
 ## Configure Windows OS environment
 Extract the appropriate version of the Hadoop folder
-![](./000-pictures/WinUtils.png)
-### Add environment variable - HADOOP_HOME
-![](./000-pictures/000-SystemEnvironmentVariables.png)
-![](./000-pictures/001-SystemEnvironmentVariables.png)
-![](./000-pictures/002-SystemEnvironmentVariables.png)
-### Apply to PATH
-![](./000-pictures/004-SystemEnvironmentVariables.png)
-![](./000-pictures/003-SystemEnvironmentVariables.png)
 
+[<img src="./000-pictures/WinUtils.png" width="600"/>]()
+### Add environment variable - HADOOP_HOME
+[<img src="./000-pictures/000-SystemEnvironmentVariables.png" width="400"/>]()
+[<img src="./000-pictures/001-SystemEnvironmentVariables.png" width="400"/>]()
+[<img src="./000-pictures/002-SystemEnvironmentVariables.png" width="400"/>]()
+### Apply to PATH
+[<img src="./000-pictures/004-SystemEnvironmentVariables.png" width="400"/>]()
+[<img src="./000-pictures/003-SystemEnvironmentVariables.png" width="400"/>]()
 ## Create ***python environment*** and ***specific version***
 ```cmd
 PATH>conda create --name dbconnect python=3.7
@@ -190,9 +190,9 @@ Databricks Connect User Survey: https://forms.gle/V2indnHHfrjGWyQ4A
 (dbconnect) PATH>databricks-connect test
 ```
 > P.S. Execution result as below:
-![](./000-pictures/005-Result.png)
-![](./000-pictures/006-Result.png)
-![](./000-pictures/007-Result.png)
+[<img src="./000-pictures/005-Result.png" width="75%"/>]()
+[<img src="./000-pictures/006-Result.png" width="75%"/>]()
+[<img src="./000-pictures/007-Result.png" width="75%"/>]()
 
 Done!
 
