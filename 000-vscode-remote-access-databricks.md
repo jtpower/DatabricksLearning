@@ -14,8 +14,8 @@ Extract the appropriate version of the Hadoop folder
 ![](./000-pictures/001-SystemEnvironmentVariables.png)
 ![](./000-pictures/002-SystemEnvironmentVariables.png)
 ### Apply to PATH
-![](.\000-pictures\004-SystemEnvironmentVariables.png)
-![](.\000-pictures\003-SystemEnvironmentVariables.png)
+![](./000-pictures/004-SystemEnvironmentVariables.png)
+![](./000-pictures/003-SystemEnvironmentVariables.png)
 
 ## Create ***python environment*** and ***specific version***
 ```cmd
@@ -190,9 +190,9 @@ Databricks Connect User Survey: https://forms.gle/V2indnHHfrjGWyQ4A
 (dbconnect) PATH>databricks-connect test
 ```
 > P.S. Execution result as below:
-![](.\000-pictures\005-Result.png)
-![](.\000-pictures\006-Result.png)
-![](.\000-pictures\007-Result.png)
+![](./000-pictures/005-Result.png)
+![](./000-pictures/006-Result.png)
+![](./000-pictures/007-Result.png)
 
 Done!
 
