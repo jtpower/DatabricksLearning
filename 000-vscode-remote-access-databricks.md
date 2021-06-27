@@ -8,11 +8,11 @@
 
 ## Configure Windows OS environment
 Extract the appropriate version of the Hadoop folder
-![](.\000-pictures\WinUtils.png)
+![](./000-pictures/WinUtils.png)
 ### Add environment variable - HADOOP_HOME
-![](.\000-pictures\000-SystemEnvironmentVariables.png)
-![](.\000-pictures\001-SystemEnvironmentVariables.png)
-![](.\000-pictures\002-SystemEnvironmentVariables.png)
+![](./000-pictures/000-SystemEnvironmentVariables.png)
+![](./000-pictures/001-SystemEnvironmentVariables.png)
+![](./000-pictures/002-SystemEnvironmentVariables.png)
 ### Apply to PATH
 ![](.\000-pictures\004-SystemEnvironmentVariables.png)
 ![](.\000-pictures\003-SystemEnvironmentVariables.png)
