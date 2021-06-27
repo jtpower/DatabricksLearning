@@ -189,6 +189,7 @@ Databricks Connect User Survey: https://forms.gle/V2indnHHfrjGWyQ4A
 (dbconnect) PATH>databricks-connect test
 ```
 > P.S. Execution result as below:
+
 [<img src="./000-pictures/005-Result.png" width="75%"/>]()<br/>
 [<img src="./000-pictures/006-Result.png" width="75%"/>]()<br/>
 [<img src="./000-pictures/007-Result.png" width="75%"/>]()
